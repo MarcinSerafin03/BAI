@@ -5,7 +5,7 @@ maszynowego w sztucznej inteligencji, na podstawie prostych algorytmów:
 regresji liniowej i logistycznej, z regularyzacją i bez.
 
 Plan laboratorium:
-1. Krótkie wprowadzenie do bibliotek Numpy i Pandas, ładowanie i przetwarzanie danych tabelarycznych.
+1. Krótkie wprowadzenie do bibliotek Numpy i Pandas, ładowani i przetwarzanie danych tabelarycznych.
 2. Krótkie wprowadzenie do biblioteki Scikit-learn. Podstawowe czyszczenie danych, 
    podział na zbiory treningowy i testowy.
 3. Problem regresji, regresja liniowa, stworzenie i wytrenowanie modelu.
